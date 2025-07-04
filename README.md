@@ -1,5 +1,5 @@
 ## JavaScript Fundamentals
 
-- [Hello World](./Fundamentals/hello.js)
-- [Variables](./Fundamentals/variables.js)
+- [Hello World](./Fundamentals/Hello.js)
+- [Variables](./Fundamentals/Variables.js)
 - [Data Types](./Fundamentals/datatype.js)
